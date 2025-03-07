@@ -41,6 +41,12 @@ I'm passionate about **Product Growth, DevOps, AI, and Business Analytics**. I t
 
 ---
 
+## Accreditions in OS
+![Alt text](SuperVision_Contributors.jpg)
+
+![Alt text](Girlscript_Achiever's_Certificate.jpg)
+
+
 ## **📊 GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaghavvGupta&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavvGupta&layout=compact&theme=radical)  
