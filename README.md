@@ -7,8 +7,10 @@
 ---
 
 ## **About Me**
-- 📌 **Associate Software Engineer @ Tech Mahindra** (Sept 2024 - Present)
-- 📊 **Ex-Growth & Product Analyst @ Blue Max Ind.** (Jan 2024 - Aug 2024)
+- 📌 **Decision Analyst Associate @ ZS Associates** (Aug 2025 - Present)
+- 📌 **Associate Product Manager @ Fairdeal.Market** (Apr 2025 - Jun 2025)
+- 📌 **Associate Software Engineer @ Tech Mahindra** (Sept 2024 - Mar 2025)
+- 📊 **Ex-Growth & Product Analyst Intern @ Blue Max Ind.** (Jan 2024 - Aug 2024)
 - 🔧 **Data Acquisition Engineer @ Team Jatayu**
 - ✍️ **Open Source Contributor | Technical Writer @ GirlScript Foundation**
 
