@@ -42,7 +42,7 @@ export default function About() {
             I hold a B.Tech from Maharaja Agrasen Institute of Technology (CGPA 8.42/10). My approach combines deep product thinking with technical implementation—solving high-impact problems at the intersection of AI, product, and growth strategy.
           </p>
           <a
-            href="https://drive.google.com/file/d/11MlfJV2z4oaK9HlbDy5cVMIf6Wk1n-gx/view?usp=sharing"
+            href="https://drive.google.com/file/d/1jASvByV2EIrbzjgzZBkTMBp6ThV-GsyN/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
