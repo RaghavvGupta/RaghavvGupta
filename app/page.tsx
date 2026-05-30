@@ -9,6 +9,7 @@ import Education from "./components/education"
 import Blogs from "./components/blogs"
 import Testimonials from "./components/testimonials"
 import SkillMeter from "./components/skill-meter"
+import AIProject from "./components/ai-project"
 import { ThemeToggle } from "@/components/theme-toggle"
 import FloatingSocial from "./components/floating-social"
 import ResumeCTA from "./components/resume-cta"
@@ -31,6 +32,9 @@ export default function Home() {
               </Link>
               <Link href="#work" className="transition-colors hover:text-foreground/80">
                 Portfolio
+              </Link>
+              <Link href="#ai-project" className="transition-colors hover:text-foreground/80">
+                AI Project
               </Link>
               <Link href="#experience" className="transition-colors hover:text-foreground/80">
                 Experience
@@ -69,6 +73,7 @@ export default function Home() {
 
       <main className="container mx-auto px-4 sm:px-6 lg:px-8">
         <WorkShowcase />
+        <AIProject />
         <Experience />
         <Skills />
         <SkillMeter />

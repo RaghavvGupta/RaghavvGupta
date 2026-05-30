@@ -30,19 +30,16 @@ export default function About() {
         >
           <h2 className="text-3xl font-bold mb-6">About Me</h2>
           <p className="text-muted-foreground mb-4">
-            I'm Raghav, an Associate Software Engineer at Tech Mahindra with a background in Product Growth Analysis.
-            During my time at Blue Max Industries, I optimized user acquisition and retention strategies, boosting the
-            user base by 12%+ in just 6 months and improving retention by 35%.
+            I'm Raghav, a Decision Analytics Associate at ZS Associates with expertise in product strategy, growth analysis, and cloud infrastructure. Currently, I help global MedTech and biopharma clients solve complex business challenges through data-driven research and strategic analysis.
           </p>
           <p className="text-muted-foreground mb-4">
-            My experience spans from conducting market research and competitive analysis to collaborating with
-            cross-functional teams to enhance product usability. I've worked on projects ranging from smart traffic
-            management systems to data acquisition for ATVs.
+            My career spans product management at FairDeal.Market (increased DAU by 15%), cloud architecture at Tech Mahindra (designed AWS EKS solutions), product growth at Blue Max Industries (grew user base 12%+ and improved retention by 35%), and cross-functional engineering at Team Jatayu. I combine quantitative rigor with qualitative insights to build scalable solutions.
+          </p>
+          <p className="text-muted-foreground mb-4">
+            Currently, I'm building an AI-powered intelligent ticket routing and resolution agent using RAG to help enterprises automate support ticket triage and resolution at scale.
           </p>
           <p className="text-muted-foreground mb-6">
-            I hold a B.Tech degree from Maharaja Agrasen Institute of Technology with a CGPA of 8.42/10. My approach
-            combines analytical rigor with creative problem-solving to build products that drive business growth through
-            thoughtful design and strategic implementation.
+            I hold a B.Tech from Maharaja Agrasen Institute of Technology (CGPA 8.42/10). My approach combines deep product thinking with technical implementation—solving high-impact problems at the intersection of AI, product, and growth strategy.
           </p>
           <a
             href="https://drive.google.com/file/d/11MlfJV2z4oaK9HlbDy5cVMIf6Wk1n-gx/view?usp=sharing"
