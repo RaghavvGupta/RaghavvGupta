@@ -65,7 +65,7 @@ export default function Hero() {
                 </Button>
               </Link>
               <a
-                href="https://drive.google.com/file/d/11MlfJV2z4oaK9HlbDy5cVMIf6Wk1n-gx/view?usp=sharing"
+                href="https://drive.google.com/file/d/1jASvByV2EIrbzjgzZBkTMBp6ThV-GsyN/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
               >
